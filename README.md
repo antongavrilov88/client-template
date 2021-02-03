@@ -9,7 +9,7 @@ Init config of client app with:
 Usage:
 ## Установка
 ```
-git clone 
+git clone https://github.com/antongavrilov88/client-template.git
 ```
 В корне проекта исполнить:
 ```
