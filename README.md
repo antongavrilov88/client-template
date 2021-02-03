@@ -5,6 +5,7 @@ Init config of client app with:
 - Typescript
 - ESLinter (airbnb preset)
 - Jest - enzyme
+- express server to run the build
 
 Usage:
 ## Установка
