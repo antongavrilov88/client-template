@@ -2,13 +2,10 @@
 
 ## Description
 ```
-Yandex-praktikum. 2-nd module. Sokoban - tеam development
+Client app config
 
 ```
-## link:
-```
-https://chicago-sokoban.herokuapp.com/
-```
+
 ## Install
 ```
 git clone https://github.com/chicago-ya-praktikum/game.git
