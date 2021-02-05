@@ -3,7 +3,6 @@
 ## Description
 ```
 Client app config
-
 ```
 
 ## Install
