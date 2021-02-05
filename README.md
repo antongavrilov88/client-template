@@ -1,47 +1,48 @@
-# client-template
-Template config of client app
-Init config of client app with:
-- react
-- Typescript
-- ESLinter (airbnb preset)
-- Jest - enzyme
-- express server to run the build
+# game
 
-Usage:
-## Установка
+## Description
 ```
-git clone https://github.com/antongavrilov88/client-template.git
+Yandex-praktikum. 2-nd module. Sokoban - tеam development
+
 ```
-В корне проекта исполнить:
+## link:
+```
+https://chicago-sokoban.herokuapp.com/
+```
+## Install
+```
+git clone https://github.com/chicago-ya-praktikum/game.git
+```
+
+Go to the project root directory and install all it's dependencies:
 ```
 npm install
 ```
 
-## Запуск сервера разработки
+## Start dev-server
 ```
-npm run dev-start
+npm run dev
 ```
 
-## Тесты и проверки
+## 
 
-### Тесты
+### Tests and linter
 ```
 npm run test
 ```
-### Анализ code-style
+### Check the code-style
 ```
 npm run lint
 ```
-### Исправление code-style
+### Fix the code-style
 ```
 npm run lint-fix
 ```
-## Сборка пакета
+## To build the package do the following in the root of the project:
 ```
 npm run build
 ```
-
-## Запуск пакета
+## To run the package do the following in the root of the project:
 ```
 npm run build-run
 ```
