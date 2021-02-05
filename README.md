@@ -7,7 +7,7 @@ Client app config
 
 ## Install
 ```
-git clone https://github.com/chicago-ya-praktikum/game.git
+git clone https://github.com/antongavrilov88/client-template.git
 ```
 
 Go to the project root directory and install all it's dependencies:
